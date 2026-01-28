@@ -1,4 +1,4 @@
-# awww-bin (An animated wallpaper daemon for wayland, controlled at runtime)
+# awww-bin (An animated wallpaper daemon for wayland)
 
 Compiled binary distribution of awww.
 
