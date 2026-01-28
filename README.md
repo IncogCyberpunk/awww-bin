@@ -6,12 +6,12 @@ Upstream project: https://codeberg.org/LGFae/awww
 
 ## Download
 
-[awww-0.11.2-x86_64.tar.gz](https://github.com/IncogCyberpunk/awww-bin/raw/main/awww-0.11.2-x86_64.tar.gz)
+Download the latest release from the [Releases](https://github.com/IncogCyberpunk/awww-bin/releases) section.
 
 ## Installation
 
 ```bash
-tar -xzf awww-0.11.2-x86_64.tar.gz
+tar -xzf awww-*-x86_64.tar.gz
 sudo cp -r usr/* /usr/
 ```
 
