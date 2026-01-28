@@ -2,6 +2,8 @@
 
 Compiled binary distribution of awww.
 
+Upstream project: https://codeberg.org/LGFae/awww
+
 ## Download
 
 [awww-0.11.2-x86_64.tar.gz](https://github.com/IncogCyberpunk/awww-bin/raw/main/awww-0.11.2-x86_64.tar.gz)
@@ -21,4 +23,4 @@ sudo cp -r usr/* /usr/
 
 ## License
 
-See [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
